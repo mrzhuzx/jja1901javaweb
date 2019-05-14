@@ -6,177 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a306187b-bb18-4dde-830b-383c4001ad62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/javaweb/tzhu/appcomm/BaseDaoMysql.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/javaweb/tzhu/appcomm/TestMysql.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/javaweb/tzhu/dao/FoodDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/javaweb/tzhu/dao/impl/FoodDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/javaweb/tzhu/dao/test/FoodDaoImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/javaweb/tzhu/entity/Food.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/javaweb/tzhu/entity/FoodStyple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/javaweb/tzhu/web/FoodServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/test/TestFood.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/test/TestJm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/test/TestZhu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/test/test_lk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/classes/mysql.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/appcomm/BaseDaoMysql.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/appcomm/TestMysql.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/FoodDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/impl/FoodDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/test/FoodDaoImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Food.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/FoodStyple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/web/FoodServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/test/TestFood.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/test/TestJm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/test/TestZhu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/test/test_lk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/mysql.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/javaee-api-8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/javax.mail-1.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/junit-jupiter-api-5.5.0-M1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/junit-platform-commons-1.5.0-M1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/opentest4j-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/css/local.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/css/merge-min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/demo01.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/30fen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/addrSearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/address.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/addresslogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/caidanyinpin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/chongxinjihuo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/chongxinjihuoyoujian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/dicanxuzhi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/dingcanjilu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/gerenxinxi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/jihuozhanghu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/mlslogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/phone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/question.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/wangjimima.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/wanzhantiaokuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/wodeshoucang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/yidenglushouye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/yisitiaokuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/zhanghushezhi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/zhengcancuxiao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/zhengcankaixinleyuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/zhengcantiandian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/zhengcanxiaoshi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/zhengcanzhushi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/html/zhuizongdingdan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1088.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1119.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1217.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1401.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1406.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1440.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1450.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1600.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1700.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/1715.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/2430.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/2631.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/2722.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/2949.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3469.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3470.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3471.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3505.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3510.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3518.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3605.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3705.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3755.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/3757.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4410.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4416.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4437.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4648.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4800.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4825.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/4900.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/5010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/5021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/5022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/5023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/5024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/5088.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/6800.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/6868.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/7097.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/8015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/8048.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/8346.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/8350.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/8615.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/8616.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/MDS logo_256x256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/MDS%20logo_256x256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/MDS_App.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/MDS_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/appStoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/apple-touch-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/apple-touch-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/apple-touch-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/baiduLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/home_promo_3267_home_promo_2734_MDS-banner_cn_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/home_promo_3268_home_promo_2735_MDS-banner_cn_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/home_promo_3269_home_promo_2736_MDS-banner_cn_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/homescreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/how_mcdelivery_works_portrait_zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/how_mcdelivery_works_zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/icoLoading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/landing_3255_getImage_br_cn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/landing_3259_landing_2638_2_CN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/landing_3261_landing_2640_3_CN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/landing_3263_landing_2642_4_CN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/landing_3265_landing_2644_5_CN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/mcdelivery_logo_zh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/reorder-packing_zh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/startup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/images/t.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/ga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/jquery-1.10.2-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/json2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/local.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/merge-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/modernizr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/js/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/welcome.jsp" afterDir="false" />
+    <list default="true" id="a306187b-bb18-4dde-830b-383c4001ad62" name="Default Changelist" comment="第一次commit">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javawebv002/src/main/java/com/test/TestJm.java" beforeDir="false" afterPath="$PROJECT_DIR$/javawebv002/src/main/java/com/test/TestJm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javawebv002/target/classes/com/test/TestJm.class" beforeDir="false" afterPath="$PROJECT_DIR$/javawebv002/target/classes/com/test/TestJm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/test/TestJm.class" beforeDir="false" afterPath="$PROJECT_DIR$/javawebv002/target/javawebv002/WEB-INF/classes/com/test/TestJm.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -189,16 +24,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javawebv002/src/main/java/com/test/TestJm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -250,9 +84,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +97,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -364,7 +198,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557732668685</updated>
-      <workItem from="1557732670830" duration="3031000" />
+      <workItem from="1557732670830" duration="3463000" />
+      <workItem from="1557736608882" duration="99000" />
+      <workItem from="1557796290314" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="第一次commit">
       <created>1557733902933</created>
@@ -380,54 +216,102 @@
       <option name="project" value="LOCAL" />
       <updated>1557735476195</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一次commit">
+      <created>1557735866632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557735866632</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3031000" />
+    <option name="totallyTimeSpent" value="4173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" sideWeight="0.49946696" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="JSF" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="CDI" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次commit" />
@@ -436,8 +320,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/javawebv002/src/main/java/com/test/TestJm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
