@@ -12,4 +12,23 @@
     <welcome-file>/index.jsp</welcome-file>
   </welcome-file-list>
 
+
+  <!-- 过滤网站常规错误 -->
+<error-page>
+  <error-code>404</error-code>
+  <location>/404.jsp</location>
+</error-page>
+
+  <!--
+    <error-page>
+      <error-code>500</error-code>
+      <location>/500.jsp</location>
+    </error-page>
+    <error-page>
+      <error-code>505</error-code>
+      <location>/505.jsp</location>
+    </error-page>-->
+
+
+
 </web-app>
