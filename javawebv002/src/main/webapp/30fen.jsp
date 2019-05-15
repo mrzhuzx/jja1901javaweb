@@ -1,3 +1,4 @@
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
     String path = request.getContextPath();
@@ -5,7 +6,7 @@
 %>
 <base href="<%=basePath%>">
 <!DOCTYPE html>
-<!-- saved from url=(0040)# -->
+<!-- saved from url=(0082)30fen.jsp -->
 <html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-ieolderthan9" style=""><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,7 +37,7 @@
 </head>
 
 
-<body class="country-86 lang-zh page-home" style="">
+<body class="country-86 lang-zh page-error-unexpected-difficulty page-error" style="">
 
 <!--[if lt IE 9]>
 <p id="outdated" class="browsehappy">您目前使用的浏览器版本过低，为保证您正常浏览网页，请<a href="http://browsehappy.com/?locale=zh" target="_blank">升级</a>至最新版本。</p>
@@ -99,7 +100,7 @@
 
 
 
-                        <li class="menu-item menu-item-support">
+                        <li class="menu-item menu-item-support selected">
                             <a class="menu-item-target" href="question.jsp">
                                 <i class="fa fa-phone icon"></i>
                                 帮助
@@ -115,110 +116,85 @@
         </div>
         <div class="main" role="main">
 
-            <!-- Begin Home Masthead Section -->
-            <section class="home-masthead page-masthead home-section">
-                <div class="slideshow" style="position: relative; height: 475px;">
 
-                    <div class="cycle-pager slide-pager"><a href="mlslogin.jsp" class="slide-pager-target ir cycle-pager-active">1</a></div>
-
-
-
+            <div class="row row-narrow">
+                <div class="page-sidebar">
+                    <div class="sidebar-menu">
+                        <h2 class="menu-category">帮助</h2>
+                        <ul class="menu">
 
 
+                            <li class="menu-item">
 
 
+                                <a class="menu-item-target" href="wanzhantiaokuan.jsp" target="_self">网站条款</a>
 
-
-
-                    <a class="slide-target slide-item action-ordernow cycle-slide cycle-slide-active" style="background-image: url(img/landing_3255_getImage_br_cn.jpg); position: absolute; top: 0px; left: 0px; opacity: 1; z-index: 99;">
-                    </a></div>
+                            </li>
 
 
 
-                <!-- Begin Login Panel -->
-                <div class="panel panel-home-masthead panel-home-masthead-login">
-                    <div class="panel-heading">
-                        <h2>开始订餐</h2>
-                    </div>
-                    <div class="panel-body">
-                        <form action="#" method="post" accept-charset="utf-8" role="form" id="form_login_masthead" name="form_login_masthead" class="panel-home-masthead-form" data-required-symbol="false" novalidate>
-                            <fieldset class="form-credentials">
-                                <div class="list-group textfield-list-group">
-                                    <div class="list-group-item textfield-list-group-item">
-                                        <label class="sr-only" for="form_login_masthead_username">Email</label>
-                                        <input type="text" name="userName" id="form_login_masthead_username" class="required email list-group-form-control" placeholder="邮箱" autocomplete="off" value="" aria-required="true">
-                                    </div>
-                                    <div class="list-group-item textfield-list-group-item">
-                                        <label class="sr-only" for="form_login_masthead_password">Password</label>
-                                        <input type="password" name="password" id="form_login_masthead_password" class="required list-group-form-control" placeholder="密码" autocomplete="off" value="" aria-required="true">
-                                    </div>
-                                </div>
-
-                                <div class="checkbox">
-                                    <div class="icheckbox" style="position: relative;"><input type="checkbox" name="rememberMe" id="form_login_masthead_rememberme" value="true" style="position: absolute; opacity: 0;"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255); border: 0px; opacity: 0; background-position: initial initial; background-repeat: initial initial;"></ins></div><input type="hidden" name="_rememberMe" value="on">
-                                    <label for="form_login_masthead_rememberme" class="checkbox-label">下次自动登录</label>
-                                </div>
-                            </fieldset>
-
-                            <fieldset class="form-actions">
-                                <button type="submit" class="btn btn-default btn-red btn-block btn-xl btn-submit">登录</button>
-                                <p class="action-forgot-password "><a class="action-link" href="wangjimima.jsp">忘记密码？</a></p>
-                                <hr class="fading-divider">
-                                <a class="action-link" href="addresslogin.jsp">
-                                    <p class="header-new-customer">新用户</p>
-                                    <p class="action-check-address">
-                                        <span> <i class="fa fa-caret-right"></i> 请输入您的送餐地址</span>
-                                    </p>
-                                </a>
-                            </fieldset>
-                            <input type="hidden" name="csrfValue" value="3E60818"></form>
-                    </div>
-                </div><!-- End Login Panel -->
-
-            </section><!-- End Home Masthead Section -->
-
-            <!-- Begin Promotion Section -->
-            <section class="promotions home-section">
-                <div class="row">
-                    <div class="col-xs-4 text-center promotion">
+                            <li class="menu-item">
 
 
-                        <p><a data-toggle="modal" href="30fen.jsp" target="_blank"><img class="img-block promotion-thumbnail" alt="" src="img/home_promo_3267_home_promo_2734_MDS-banner_cn_1.jpg"></a></p>
+                                <a class="menu-item-target" href="yisitiaokuan.jsp" target="_self">隐私政策</a>
+
+                            </li>
 
 
 
-
-                    </div>
-                    <div class="col-xs-4 text-center promotion">
+                            <li class="menu-item">
 
 
-                        <p><a data-toggle="modal" href="App.jsp" target="_blank"><img class="img-block promotion-thumbnail" alt="" src="img/home_promo_3268_home_promo_2735_MDS-banner_cn_2.jpg"></a></p>
+                                <a class="menu-item-target" href="dicanxuzhi.jsp" target="_self">订餐须知</a>
 
-
-
-
-                    </div>
-                    <div class="col-xs-4 text-center promotion">
-
-
-                        <p><a data-toggle="modal" href="dicanxuzhi.jsp" target="_blank"><img class="img-block promotion-thumbnail" alt="" src="img/home_promo_3269_home_promo_2736_MDS-banner_cn_3.jpg"></a></p>
+                            </li>
 
 
 
+                            <li class="menu-item">
 
+
+                                <a class="menu-item-target" href="question.jsp" target="_self">常见问题</a>
+
+                            </li>
+
+
+
+                            <li class="menu-item selected">
+
+
+                                <a class="menu-item-target" href="30fen.jsp" target="_self">关于30分钟必达</a>
+
+                            </li>
+
+
+
+                            <li class="menu-item">
+
+                                <a class="menu-item-target" href="phone.jsp" target="_self">手机网站</a>
+
+
+                            </li>
+
+                        </ul>
                     </div>
                 </div>
-            </section><!-- End Promotion Section -->
+                <div class="col-xs-10">
+                    <div class="page-title">
+                        <h1>关于30分钟必达</h1>
+                    </div>
+                    <div class="panel-lg panel panel-default">
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-xs-12">30分钟必达是指：自订单上显示的餐厅接受订单时间起，至餐点送达顾客或其指定收餐人为止，所用送餐时间不超过三十分钟； 如超出三十分钟，我们将赠送顾客价值30元起的食品兑换券一份，食品兑换券的使用规则详见食品兑换券。 在订单金额大于或等于人民币300元或在恶劣天气等不可抗力的情况下，我们的送餐时间可能会超过三十分钟。</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
-
-            <!-- Begin How It Works Section -->
-            <section class="how-it-works home-section">
-                <h1 class="section-title">如何订餐？</h1>
-                <p><a href="mlslogin.jsp" data-target="#signin" data-toggle="modal">
-                    <img class="img-block" alt="" src="img/how_mcdelivery_works_zh.png">
-                </a></p>
-            </section><!-- End How It Works Section -->	</div>
+        </div>
     </div>
     <div class="global-footer">
         <div class="footer-nav">
@@ -235,7 +211,7 @@
                             </li>
                             <li class="menu-item">
 
-                                <a class="menu-item-target" href="zhengcanzhushi.jsp">主食和超值早晨套餐</a>
+                                <a class="menu-item-target" href="zhengcanzhushi.jsp">主食和超值套餐</a>
 
                             </li>
                             <li class="menu-item">
@@ -308,7 +284,7 @@
 
 
 
-                                <a class="menu-item-target" href="30fen.jsp">关于30分钟必达</a>
+                                <a class="menu-item-target" href="30fen.jsp" target="_self">关于30分钟必达</a>
 
 
 
@@ -425,7 +401,7 @@
                                     </p>
                                 </a>
                             </fieldset>
-                            <input type="hidden" name="csrfValue" value="3E60818"></form>
+                            <input type="hidden" name="csrfValue" value="67D389A"></form>
                     </div>
                 </div>
             </div>
@@ -451,7 +427,7 @@
                     <div class="form-group">
                         <button type="submit" class="btn btn-default btn-red btn-lg text-ucase">下一步</button>
                     </div>
-                    <input type="hidden" name="csrfValue" value="3E60818"></form>
+                    <input type="hidden" name="csrfValue" value="67D389A"></form>
                 <p class="note">如有任何问题，请致电麦乐送4008-517-517.</p>
             </div>
         </div>
@@ -464,24 +440,28 @@
 
 
 
+<!--	[#trackOrder.modal] -->
 
+<!-- [/#trackOrder.modal] -->
 
-<div id="alertTimeOut" data-backdrop="static" class="modal-timeout modal-alert modal fade" role="dialog" aria-labelledby="timeout-title" aria-hidden="true" tabindex="-1">
+<!-- [#alertAddBookEmpty.modal] -->
+<div id="alertAddBookEmpty" data-backdrop="static" data-keyboard="false" class="modal-addressbookempty modal-alert modal fade" role="dialog" aria-labelledby="addressbookempty-title" aria-hidden="true" tabindex="-1">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 id="timeout-title">订单超时</h1>
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa mcd mcd-close"></i></button>
+                <h1 id="addressbookempty-title">地址簿是空的。</h1>
             </div>
             <div class="modal-body">
                 <div class="alert-content">
-                    <p>抱歉，由于超时，我们无法保存您的订餐信息。请重新·添加产品到购物车。</p>
-                    <p><button data-dismiss="modal" aria-hidden="true" class="btn btn-default btn-red btn-lg text-ucase">是的</button></p>
+                    <p>添加送餐地址，开始订餐吧！</p>
+                    <p><a class="btn btn-default btn-red btn-lg text-ucase" href="address.jsp">添加送餐地址</a></p>
                 </div>
             </div>
         </div>
     </div>
 </div>
+<!-- [/#alertAddBookEmpty.modal] -->
+
 <div id="rememberMe" class="modal-rememberme modal fade" data-backdrop="static" role="dialog" aria-labelledby="rememberme-title" aria-hidden="true" tabindex="-1">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -530,6 +510,7 @@
 
 
 
+
 <script type="text/javascript" src="js/plugins.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
 <script type="text/javascript" src="js/local.js"></script>
@@ -560,7 +541,7 @@
         });
         /* [/#deliveryOptions.modal] */
         $.ajaxPrefilter(function(options, originalOptions, jqXHR) {
-            var sId = '6DCC6AB6786315CA2F9A5B3A33E60818.s22t10';
+            var sId = '5D7217E5EE1BD2860F5BC3E6567D389A.s22t10';
             var pid = sId.lastIndexOf('.');
             if (pid > 0) {
                 sId = sId.substr(0, pid);
@@ -585,121 +566,99 @@
 
 
 
-<div>
 
-    <script type="text/javascript"></script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    jQuery(function($) {
 
-    <script type="text/javascript">
-        /*<![CDATA[*/
-        $(function() {
-            /* [#page-content] */
-            $('#form_login_masthead').validate({
-                rules: {
-                    userName: {
-                        required: true,
-                        email: true
-                    },
-
-                    password: {
-                        required: true
-                    }
-                },
-                messages: {
-                    userName: {
-                        required: '\u90AE\u7BB1\u662F\u5FC5\u586B\u4FE1\u606F',
-                        email: '\u8BF7\u8F93\u5165\u90AE\u7BB1'
-                    },
-
-                    password: {
-                        required: '\u5BC6\u7801\u662F\u5FC5\u586B\u4FE1\u606F'
-                    }
-                },
-                errorPlacement: function(error, element) {
-                    if (element.attr("name") == "userName" || element.attr("name") == "password" ) {
-                        $("#form_login_masthead ul").remove();
-                        $('#form_login_masthead_password').parents('.textfield-list-group').append(error);
-                    } else {
-                        error.insertAfter(element);
-                    }
-                }
+        /* [#alertAddBookEmpty.modal] */
+        // If the address book is empty, show #alertAddBookEmpty modal whenever user tries to order
+        if(false){
+            $('body').on('click', '.menu-item-menu .menu-item-target, .action-ordernow, .action-orderinadvance', function(event) {
+                event.preventDefault();
+                $('#alertAddBookEmpty').modal('show');
             });
-            /* [/#page-content] */
+        }
+        /* [/#alertAddBookEmpty.modal] */
 
-
-            /* [#trackOrder.modal] */
-            $('#form_trackOrder').validate({
-                rules: {
-                    orderNum: {
-                        required: true,
-                        remote: {
-                            param: {
-                                url: '/cn/validate/trackOrder.json',
-                                data: {
-                                    orderNumber: function() {
-                                        console.log('orderNumber : ', $('#form_trackOrder_orderNum').val());
-                                        return $('#form_trackOrder_orderNum').val();
-                                    }
-                                },
-                                complete: function(xhr, status) {
-                                    var response = xhr.responseJSON;
-                                    if(response.valid==false)
-                                    {
-                                        $('#form_trackOrder .form-group .error')
-                                            .jsp(response.message);
-                                    }
+        /* [#trackOrder.modal] */
+        $('#form_trackOrder').validate({
+            rules: {
+                orderNum: {
+                    required: true,
+                    remote: {
+                        param: {
+                            url: '/cn/validate/trackOrder.json',
+                            data: {
+                                orderNumber: function() {
+                                    console.log('orderNumber : ', $('#form_trackOrder_orderNum').val());
+                                    return $('#form_trackOrder_orderNum').val();
+                                }
+                            },
+                            complete: function(xhr, status) {
+                                var response = xhr.responseJSON;
+                                if(response.valid==false)
+                                {
+                                    $('#form_trackOrder .form-group .error')
+                                        .jsp(response.message);
                                 }
                             }
                         }
                     }
-                },
-                messages: {
-                    orderNum: {
-                        required : '\u8BA2\u5355\u53F7\u7801\u662F\u5FC5\u586B\u5185\u5BB9\u3002'
-                    }
                 }
-            });
-            /* [/#trackOrder.modal] */
-
-            $('#form_login_modal').validate({
-                rules: {
-                    userName: {
-                        required: true,
-                        email: true
-                    },
-
-                    password: {
-                        required: true
-                    }
-                },
-                messages: {
-                    userName: {
-                        required: '\u90AE\u7BB1\u662F\u5FC5\u586B\u4FE1\u606F',
-                        email: '\u8BF7\u8F93\u5165\u90AE\u7BB1'
-                    },
-
-                    password: {
-                        required: '\u5BC6\u7801\u662F\u5FC5\u586B\u4FE1\u606F'
-                    }
-                },
-                errorPlacement: function(error, element) {
-                    var ElementParent = element.parent();
-                    if (element.attr("name") == "userName" || element.attr("name") == "password" ) {
-                        $('#form_login_modal_password').parents('.textfield-list-group').append(error);
-                        $("#form_login_masthead #errorId").remove();
-                    } else {
-                        error.insertAfter(element);
-                    }
+            },
+            messages: {
+                orderNum: {
+                    required : '\u8BA2\u5355\u53F7\u7801\u662F\u5FC5\u586B\u5185\u5BB9\u3002'
                 }
-            });
-            /* [/#signin.modal] */
-            if(''=="true"){
-                $('#alertTimeOut').modal('show');
             }
-
         });
-        /*]]>*/
-    </script>
-</div>
+        /* [/#trackOrder.modal] */
+        jQuery(function($) {
+            $('.menu-item').click(function() {
+                $(".menu li").each(function() {
+                    $(this).removeClass("selected");
+                });
+                $(this).addClass("selected");
+            });
+        });
+
+        $('#form_login_modal').validate({
+            rules: {
+                userName: {
+                    required: true,
+                    email: true
+                },
+
+                password: {
+                    required: true
+                }
+            },
+            messages: {
+                userName: {
+                    required: '\u90AE\u7BB1\u662F\u5FC5\u586B\u4FE1\u606F',
+                    email: '\u8BF7\u8F93\u5165\u90AE\u7BB1'
+                },
+
+                password: {
+                    required: '\u5BC6\u7801\u662F\u5FC5\u586B\u4FE1\u606F'
+                }
+            },
+            errorPlacement: function(error, element) {
+                var ElementParent = element.parent();
+                if (element.attr("name") == "userName" || element.attr("name") == "password" ) {
+                    $('#form_login_modal_password').parents('.textfield-list-group').append(error);
+                    $("#form_login_masthead #errorId").remove();
+                } else {
+                    error.insertAfter(element);
+                }
+            }
+        });
+        /* [/#signin.modal] */
+    });
+    /*]]>*/
+</script>
+
 
 
 </body></html>
