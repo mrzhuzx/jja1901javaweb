@@ -3,28 +3,29 @@ package com.javaweb.tzhu.entity;
 /**
  *   java entity
  */
-public class FoodStyple {
+public class FoodStyle {
 
-    private int foodStyleId;
+    private Integer foodStyleId;
     private String foodStyleName;
 
-    public FoodStyple() {
+    public FoodStyle() {
     }
 
-    public FoodStyple(String foodStyleName) {
+    public FoodStyle(String foodStyleName) {
         this.foodStyleName = foodStyleName;
     }
 
-    public FoodStyple(int foodStyleId, String foodStyleName) {
+    public FoodStyle(int foodStyleId, String foodStyleName) {
         this.foodStyleId = foodStyleId;
         this.foodStyleName = foodStyleName;
     }
 
-    public int getFoodStyleId() {
+
+    public Integer getFoodStyleId() {
         return foodStyleId;
     }
 
-    public void setFoodStyleId(int foodStyleId) {
+    public void setFoodStyleId(Integer foodStyleId) {
         this.foodStyleId = foodStyleId;
     }
 

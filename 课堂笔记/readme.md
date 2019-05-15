@@ -36,6 +36,18 @@
 * 提交分支到github上
 * 拉取和合并分支代码
 
+#  同步其它开发者的分支
+# 打开自己的分支开始写项目设计
+*  注意分支的选择切换
+# 控制层代码设计
+* 接口中只能和方法的申明
+* public abstract List<FoodStyle> search();   public abstract 默认的
+# MVC设计模式
+* View 视图层
+*  Model 数据层  业务层
+*  controller 控制层  servlet设计
+     
+
 
 
    

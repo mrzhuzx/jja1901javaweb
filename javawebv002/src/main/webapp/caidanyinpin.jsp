@@ -1,5 +1,6 @@
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
 <%
     String path = request.getContextPath();
     String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
@@ -125,13 +126,11 @@
 
                                 <li class="primary-menu-item selected"><a class="primary-menu-item-target" href="zhengcancuxiao.jsp"><span>正餐菜单</span><i class="fa fa-angle-right"></i></a>
                                     <ul class="secondary-menu">
-                                        <li class="secondary-menu-item "><a class="secondary-menu-item-target" href="zhengcancuxiao.jsp"><i class="fa fa-circle"></i> <span>促销产品和热卖产品</span></a></li>
-                                        <li class="secondary-menu-item "><a class="secondary-menu-item-target" href="zhengcanzhushi.jsp"><i class="fa fa-circle"></i> <span>主食和超值套餐</span></a></li>
-                                        <li class="secondary-menu-item "><a class="secondary-menu-item-target" href="zhengcanxiaoshi.jsp"><i class="fa fa-circle"></i> <span>小食</span></a></li>
-                                        <li class="secondary-menu-item "><a class="secondary-menu-item-target" href="zhengcantiandian.jsp"><i class="fa fa-circle"></i> <span>甜品</span></a></li>
-                                        <li class="secondary-menu-item selected"><a class="secondary-menu-item-target" href="caidanyinpin.jsp"><i class="fa fa-circle"></i> <span>饮品</span></a></li>
-                                        <li class="secondary-menu-item "><a class="secondary-menu-item-target" href="zhengcankaixinleyuan.jsp"><i class="fa fa-circle"></i> <span>开心乐园餐</span></a></li>
-
+                                        <%-- 动态请求，在页面执行时加载后台数据 --%>
+                                        <jsp:include page="fs?todo=initFs"/>
+                                            <c:forEach  var="fs"  items="${requestScope.foodStyleList}">
+                                        <li class="secondary-menu-item "><a class="secondary-menu-item-target" href="zhengcancuxiao.jsp?id=${fs.foodStyleId}"><i class="fa fa-circle"></i> <span>${fs.foodStyleName}</span></a></li>
+                                            </c:forEach>
                                     </ul>
                                 </li>
 
