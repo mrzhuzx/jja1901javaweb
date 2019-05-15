@@ -1,3 +1,4 @@
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
     String path = request.getContextPath();
@@ -36,7 +37,7 @@
 </head>
 
 
-<body class="country-86 lang-zh page-home" style="">
+<body class="country-86 lang-zh page-home modal-open" style="padding-right: 17px;">
 
 <!--[if lt IE 9]>
 <p id="outdated" class="browsehappy">您目前使用的浏览器版本过低，为保证您正常浏览网页，请<a href="http://browsehappy.com/?locale=zh" target="_blank">升级</a>至最新版本。</p>
@@ -119,7 +120,7 @@
             <section class="home-masthead page-masthead home-section">
                 <div class="slideshow" style="position: relative; height: 475px;">
 
-                    <div class="cycle-pager slide-pager"><a href="mlslogin.jsp" class="slide-pager-target ir cycle-pager-active">1</a></div>
+                    <div class="cycle-pager slide-pager"><a href="#" class="slide-pager-target ir">1</a><a href="#" class="slide-pager-target ir">2</a><a href="#" class="slide-pager-target ir cycle-pager-active">3</a><a href="#" class="slide-pager-target ir">4</a></div>
 
 
 
@@ -130,8 +131,38 @@
 
 
 
-                    <a class="slide-target slide-item action-ordernow cycle-slide cycle-slide-active" style="background-image: url(img/landing_3255_getImage_br_cn.jpg); position: absolute; top: 0px; left: 0px; opacity: 1; z-index: 99;">
-                    </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <a class="slide-target slide-item action-ordernow cycle-slide" style="background-image: url(https://www.4008-517-517.cn/cn/static/1418178769517/assets/86/banners/landing_3259_landing_2638_2_CN.jpg); position: absolute; top: 0px; left: 0px; display: none; opacity: 0; z-index: 96;">
+                    </a><a class="slide-target slide-item action-ordernow cycle-slide" style="background-image: url(https://www.4008-517-517.cn/cn/static/1418178769517/assets/86/banners/landing_3261_landing_2640_3_CN.jpg); position: absolute; top: 0px; left: 0px; display: none; z-index: 100; opacity: 0;">
+                </a><a class="slide-target slide-item action-ordernow cycle-slide cycle-slide-active" style="background-image: url(https://www.4008-517-517.cn/cn/static/1418178769517/assets/86/banners/landing_3263_landing_2642_4_CN.jpg); z-index: 99; position: absolute; top: 0px; left: 0px; display: block; opacity: 1;">
+                </a><a class="slide-target slide-item action-ordernow cycle-slide" style="background-image: url(https://www.4008-517-517.cn/cn/static/1418178769517/assets/86/banners/landing_3265_landing_2644_5_CN.jpg); position: absolute; top: 0px; left: 0px; display: none; opacity: 0; z-index: 97;">
+                </a></div>
 
 
 
@@ -141,7 +172,7 @@
                         <h2>开始订餐</h2>
                     </div>
                     <div class="panel-body">
-                        <form action="#" method="post" accept-charset="utf-8" role="form" id="form_login_masthead" name="form_login_masthead" class="panel-home-masthead-form" data-required-symbol="false" novalidate>
+                        <form action="mlslogin.jsp" method="post" accept-charset="utf-8" role="form" id="form_login_masthead" name="form_login_masthead" class="panel-home-masthead-form" data-required-symbol="false" novalidate>
                             <fieldset class="form-credentials">
                                 <div class="list-group textfield-list-group">
                                     <div class="list-group-item textfield-list-group-item">
@@ -171,7 +202,7 @@
                                     </p>
                                 </a>
                             </fieldset>
-                            <input type="hidden" name="csrfValue" value="3E60818"></form>
+                            <input type="hidden" name="csrfValue" value="E03F6D1"></form>
                     </div>
                 </div><!-- End Login Panel -->
 
@@ -201,7 +232,7 @@
                     <div class="col-xs-4 text-center promotion">
 
 
-                        <p><a data-toggle="modal" href="dicanxuzhi.jsp" target="_blank"><img class="img-block promotion-thumbnail" alt="" src="img/home_promo_3269_home_promo_2736_MDS-banner_cn_3.jpg"></a></p>
+                        <p><a data-toggle="modal" href="#" target="_blank"><img class="img-block promotion-thumbnail" alt="" src="img/home_promo_3269_home_promo_2736_MDS-banner_cn_3.jpg"></a></p>
 
 
 
@@ -235,7 +266,7 @@
                             </li>
                             <li class="menu-item">
 
-                                <a class="menu-item-target" href="zhengcanzhushi.jsp">主食和超值早晨套餐</a>
+                                <a class="menu-item-target" href="zhengcanzhushi.jsp">主食和超值套餐</a>
 
                             </li>
                             <li class="menu-item">
@@ -381,7 +412,7 @@
 
 
 
-<div id="signin" class="modal-login modal fade" role="dialog" aria-labelledby="modal-title" aria-hidden="true" tabindex="-1">
+<div id="signin" class="modal-login modal fade in" role="dialog" aria-labelledby="modal-title" aria-hidden="false" tabindex="-1" style="display: block; padding-right: 17px;"><div class="modal-backdrop fade in" style="height: 661px;"></div>
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -394,7 +425,7 @@
                 <h2 id="modal-title">欢迎，登陆后开始订餐</h2>
                 <div class="row">
                     <div class="col-xs-offset-3 col-xs-6">
-                        <form action="https://www.4008-517-517.cn/cn/login.jsp" method="post" accept-charset="utf-8" role="form" id="form_login_modal" name="form_login_modal" class="form-login-modal form-login" data-required-symbol="false" novalidate>
+                        <form action="mlslogin.jsp" method="post" accept-charset="utf-8" role="form" id="form_login_modal" name="form_login_modal" class="form-login-modal form-login" data-required-symbol="false" novalidate>
                             <fieldset class="form-credentials">
                                 <div class="list-group textfield-list-group">
                                     <div class="list-group-item textfield-list-group-item">
@@ -425,7 +456,7 @@
                                     </p>
                                 </a>
                             </fieldset>
-                            <input type="hidden" name="csrfValue" value="3E60818"></form>
+                            <input type="hidden" name="csrfValue" value="E03F6D1"></form>
                     </div>
                 </div>
             </div>
@@ -451,7 +482,7 @@
                     <div class="form-group">
                         <button type="submit" class="btn btn-default btn-red btn-lg text-ucase">下一步</button>
                     </div>
-                    <input type="hidden" name="csrfValue" value="3E60818"></form>
+                    <input type="hidden" name="csrfValue" value="E03F6D1"></form>
                 <p class="note">如有任何问题，请致电麦乐送4008-517-517.</p>
             </div>
         </div>
@@ -560,7 +591,7 @@
         });
         /* [/#deliveryOptions.modal] */
         $.ajaxPrefilter(function(options, originalOptions, jqXHR) {
-            var sId = '6DCC6AB6786315CA2F9A5B3A33E60818.s22t10';
+            var sId = '81021B4AA2A2FC6C4B2DD93CBE03F6D1.s22t10';
             var pid = sId.lastIndexOf('.');
             if (pid > 0) {
                 sId = sId.substr(0, pid);
