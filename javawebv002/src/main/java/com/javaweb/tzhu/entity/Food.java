@@ -1,120 +1,83 @@
 package com.javaweb.tzhu.entity;
 
-
-import lombok.Data;
-
-/**
- * 食物
- * foodId   
- * foodStyleId  种类
- * foodName
- * foodIntegerroduce 介绍
- * foodPrice
- * foodCount    库存
- * lunchId
- * imagesPath    
- *
- */
-
 public class Food {
-	private Integer foodId;
-	private String foodName;     
-	private	String foodIntroduce;
-	private Double foodPrice;
-	private Integer foodStyleId;       	
-	private	Integer foodCount;         
-	private	Integer lunchId;          
-	private	String imagesPath;
+    private Integer foodid;
 
-	public Food() {
-	}
+    private String foodname;
 
-	public Food(Integer foodId, String foodName, String foodIntroduce, Double foodPrice, Integer foodStyleId, Integer foodCount, Integer lunchId, String imagesPath) {
-		this.foodId = foodId;
-		this.foodName = foodName;
-		this.foodIntroduce = foodIntroduce;
-		this.foodPrice = foodPrice;
-		this.foodStyleId = foodStyleId;
-		this.foodCount = foodCount;
-		this.lunchId = lunchId;
-		this.imagesPath = imagesPath;
-	}
+    private String foodintroduce;
 
-	public Integer getFoodId() {
-		return foodId;
-	}
+    private Double foodprice;
 
-	public void setFoodId(Integer foodId) {
-		this.foodId = foodId;
-	}
+    private Integer foodstyleid;
 
-	public String getFoodName() {
-		return foodName;
-	}
+    private Integer foodcount;
 
-	public void setFoodName(String foodName) {
-		this.foodName = foodName;
-	}
+    private Integer lunchid;
 
-	public String getFoodIntroduce() {
-		return foodIntroduce;
-	}
+    private String imagespath;
 
-	public void setFoodIntroduce(String foodIntroduce) {
-		this.foodIntroduce = foodIntroduce;
-	}
+    public Integer getFoodid() {
+        return foodid;
+    }
 
-	public Double getFoodPrice() {
-		return foodPrice;
-	}
+    public void setFoodid(Integer foodid) {
+        this.foodid = foodid;
+    }
 
-	public void setFoodPrice(Double foodPrice) {
-		this.foodPrice = foodPrice;
-	}
+    public String getFoodname() {
+        return foodname;
+    }
 
-	public Integer getFoodStyleId() {
-		return foodStyleId;
-	}
+    public void setFoodname(String foodname) {
+        this.foodname = foodname == null ? null : foodname.trim();
+    }
 
-	public void setFoodStyleId(Integer foodStyleId) {
-		this.foodStyleId = foodStyleId;
-	}
+    public String getFoodintroduce() {
+        return foodintroduce;
+    }
 
-	public Integer getFoodCount() {
-		return foodCount;
-	}
+    public void setFoodintroduce(String foodintroduce) {
+        this.foodintroduce = foodintroduce == null ? null : foodintroduce.trim();
+    }
 
-	public void setFoodCount(Integer foodCount) {
-		this.foodCount = foodCount;
-	}
+    public Double getFoodprice() {
+        return foodprice;
+    }
 
-	public Integer getLunchId() {
-		return lunchId;
-	}
+    public void setFoodprice(Double foodprice) {
+        this.foodprice = foodprice;
+    }
 
-	public void setLunchId(Integer lunchId) {
-		this.lunchId = lunchId;
-	}
+    public Integer getFoodstyleid() {
+        return foodstyleid;
+    }
 
-	public String getImagesPath() {
-		return imagesPath;
-	}
+    public void setFoodstyleid(Integer foodstyleid) {
+        this.foodstyleid = foodstyleid;
+    }
 
-	public void setImagesPath(String imagesPath) {
-		this.imagesPath = imagesPath;
-	}
+    public Integer getFoodcount() {
+        return foodcount;
+    }
 
-	@Override
-	public String toString() {
-		return "Food{" +
-				"foodId=" + foodId +
-				", foodName='" + foodName + '\'' +
-				", foodIntroduce='" + foodIntroduce + '\'' +
-				", foodPrice=" + foodPrice +
-				", foodStyleId=" + foodStyleId +
-				", foodCount=" + foodCount +
-				", lunchId=" + lunchId +
-				", imagesPath='" + imagesPath + '\'' +
-				'}';
-	}
+    public void setFoodcount(Integer foodcount) {
+        this.foodcount = foodcount;
+    }
+
+    public Integer getLunchid() {
+        return lunchid;
+    }
+
+    public void setLunchid(Integer lunchid) {
+        this.lunchid = lunchid;
+    }
+
+    public String getImagespath() {
+        return imagespath;
+    }
+
+    public void setImagespath(String imagespath) {
+        this.imagespath = imagespath == null ? null : imagespath.trim();
+    }
 }

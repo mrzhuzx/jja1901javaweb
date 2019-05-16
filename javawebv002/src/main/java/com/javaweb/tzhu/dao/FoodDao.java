@@ -7,7 +7,7 @@ import java.util.List;
 public interface FoodDao {
 
 
-    public List<Food> search(Integer foodStyleId,Integer lunchId );
+    public List<Food> search(Integer foodStyleId, Integer lunchId );
 
 
 }
