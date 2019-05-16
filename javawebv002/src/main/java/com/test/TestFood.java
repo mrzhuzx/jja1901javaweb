@@ -14,7 +14,7 @@ public class TestFood {
 
         Food  f=new Food();
 
-        f.setFoodName("xxh");
+        f.setFoodname("xxh");
 
 
 
