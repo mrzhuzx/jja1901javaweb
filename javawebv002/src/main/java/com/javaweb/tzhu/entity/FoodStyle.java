@@ -1,6 +1,6 @@
 package com.javaweb.tzhu.entity;
 
-public class Foodstyle {
+public class FoodStyle {
     private Integer foodstyleid;
 
     private String foodstylename;
