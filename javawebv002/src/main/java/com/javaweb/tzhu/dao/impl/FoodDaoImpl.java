@@ -28,7 +28,7 @@ public class FoodDaoImpl extends BaseDaoMysql<Food> implements FoodDao {
 
         String sql = sb.toString();
 
-
+        System.out.println(sql);
         return findList(Food.class, sql);
 
     }

@@ -1,11 +1,10 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: zxlal
-  Date: 2019/5/15
-  Time: 17:39
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%
+    String path = request.getContextPath();
+    String basePath = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort() + path + "/";
+%>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<base href="<%=basePath%>">
 <div class="page-sidebar">
     <div class="sidebar-menu" data-sticky="true">
         <div class="food-menu">
@@ -16,24 +15,13 @@
                                                           href="/jsp/caidanyinpin.jsp"><span>正餐菜单</span><i
                         class="fa fa-angle-right"></i></a>
                     <ul class="secondary-menu">
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>促销产品和热卖产品</span></a></li>
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>主食和超值套餐</span></a></li>
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>小食</span></a></li>
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>甜品</span></a></li>
-                        <li class="secondary-menu-item selected"><a class="secondary-menu-item-target"
-                                                                    href="#"><i class="fa fa-circle"></i>
-                            <span>饮品</span></a></li>
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>开心乐园餐</span></a></li>
+                        <jsp:include page="../fs?todo=initFs"/>
+                        <c:forEach   var="fs" items="${requestScope.foodStyleList}">
+                        <li class="secondary-menu-item ">
+                            <a class="secondary-menu-item-target" href="food?todo=xxxh&foodStyleId=${fs.foodStyleId}"><i class="fa fa-circle"></i>
+                            <span>${fs.foodStyleName}</span></a></li>
+
+                        </c:forEach>
 
                     </ul>
                 </li>

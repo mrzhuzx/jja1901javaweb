@@ -31,6 +31,17 @@ public class FoodServlet extends HttpServlet {
             request.setAttribute("foodList",foodList);
             request.getRequestDispatcher("demo01.jsp").forward(request,response);
 
+        }else if("initFood".equals(todo)){
+
+            // 默认查询 产品类型为1的列表
+            FoodDao dao=new FoodDaoImpl();
+
+            Integer  foodStyleId=1;
+
+            List<Food> foodList = dao.search(foodStyleId, 0);
+
+            request.setAttribute("foodList",foodList);
+
         }
 
 

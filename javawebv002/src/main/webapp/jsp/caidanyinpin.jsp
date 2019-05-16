@@ -64,10 +64,14 @@
 
 <div class="root">
     <div class="wrap container">
-        <%@include file="/jsp/header.jsp" %>
+
+        <jsp:include page="/jsp/header.jsp"/>
+
         <div class="main">
             <div class="row row-narrow">
-                <%@include file="/jsp/caidanyinpin-left.jsp" %>
+
+                <jsp:include page="/jsp/caidanyinpin-left.jsp"/>
+
                 <div class="col-xs-10 pull-right">
                     <div class="clearfix">
                         <div class="page-breadcrumbs pull-left">
@@ -85,11 +89,14 @@
                             <div class="col-xs-8">
                                 <div id="product-cards" data-equal-height=".col-xs-6 .product-title">
                                     <div class="row row-narrow">
+
+                                    <jsp:include page="/food?todo=initFood"/>
+                                        <c:forEach var="f"  items="${requestScope.foodList}">
                                         <div class="col-lg-4 col-xs-6">
                                             <div class="panel panel-default panel-product">
                                                 <div class="panel-body">
-                                                    <img src="../img/2949.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">柑橘姜饮</h5>
+                                                    <img src="${f.imagesPath}" class="img-block" alt="">
+                                                    <h5 class="product-title" style="height: 19px;">${f.foodName}</h5>
                                                     <div class="product-badges">
                                                         <span class="food-icons-sprite food-icons-new ir"></span>
 
@@ -100,7 +107,7 @@
                                                         <div class="col-xs-6">
                                                             <div class="product-details">
                                                                 <div class="product-cost">
-                                                                    <span class="starting-price">¥10.50</span>
+                                                                    <span class="starting-price">¥${f.foodPrice}</span>
                                                                 </div>
                                                                 <div class="product-nutritional-info">
 
@@ -120,380 +127,12 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        </c:forEach>
 
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/6868.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">黑芝麻珍珠奶茶</h5>
-                                                    <div class="product-badges">
 
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥11.00</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
 
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
 
 
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3518.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">鲜煮咖啡</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥9.00</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3605.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">热朱古力</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥10.50</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3505.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">红茶</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥10.50</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/2430.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">美汁源阳光橙</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥10.50</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3705.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">美汁源100%橙汁</h5>
-                                                    <div class="product-badges">
-
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥10.50</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3000.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">可口可乐</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥7.00</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3021.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">零度可口可乐</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥7.00</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3010.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">雪碧</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥7.00</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3755.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">纯牛奶</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥9.00</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-4 col-xs-6">
-                                            <div class="panel panel-default panel-product">
-                                                <div class="panel-body">
-                                                    <img src="../img/3757.png" class="img-block" alt="">
-                                                    <h5 class="product-title" style="height: 19px;">冰露矿物质水</h5>
-                                                    <div class="product-badges">
-
-                                                    </div>
-                                                </div>
-                                                <div class="panel-footer">
-                                                    <div class="row row-narrow">
-                                                        <div class="col-xs-6">
-                                                            <div class="product-details">
-                                                                <div class="product-cost">
-                                                                    <span class="starting-price">¥6.00</span>
-                                                                </div>
-                                                                <div class="product-nutritional-info">
-
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="product-controls">
-
-
-                                                            <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
-                                                               data-toggle="modal" data-target="#signin">添加</a>
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
