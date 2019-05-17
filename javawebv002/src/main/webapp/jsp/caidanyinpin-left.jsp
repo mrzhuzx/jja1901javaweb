@@ -6,44 +6,31 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <div class="page-sidebar">
     <div class="sidebar-menu" data-sticky="true">
         <div class="food-menu">
             <ul class="primary-menu">
-
-
-                <li class="primary-menu-item selected"><a class="primary-menu-item-target"
-                                                          href="/jsp/caidanyinpin.jsp"><span>正餐菜单</span><i
-                        class="fa fa-angle-right"></i></a>
+                <li class="primary-menu-item selected">
+                    <a class="primary-menu-item-target" href="/jsp/caidanyinpin.jsp">
+                        <span>正餐菜单</span>
+                        <i class="fa fa-angle-right"></i>
+                    </a>
                     <ul class="secondary-menu">
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>促销产品和热卖产品</span></a></li>
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>主食和超值套餐</span></a></li>
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>小食</span></a></li>
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>甜品</span></a></li>
-                        <li class="secondary-menu-item selected"><a class="secondary-menu-item-target"
-                                                                    href="#"><i class="fa fa-circle"></i>
-                            <span>饮品</span></a></li>
-                        <li class="secondary-menu-item "><a class="secondary-menu-item-target"
-                                                            href="#"><i class="fa fa-circle"></i>
-                            <span>开心乐园餐</span></a></li>
-
+                        <c:forEach items="${FSList}" var="fs">
+                            <li class="secondary-menu-item ">
+                                <a class="secondary-menu-item-target" href="FoodServlet?method=findFoodPageById&num=1&foodStyleId=${fs.foodstyleid}">
+                                    <i class="fa fa-circle"></i>
+                                    <span>${fs.foodstylename}</span>
+                                </a>
+                            </li>
+                        </c:forEach>
                     </ul>
                 </li>
 
                 <li class="primary-menu-item"><a class="primary-menu-item-target" href="#"><span>早餐菜单</span><i
                         class="fa fa-angle-right"></i></a>
-
                 </li>
-
-
             </ul>
         </div>
 

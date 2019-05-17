@@ -1,51 +1,38 @@
 package com.javaweb.tzhu.web;
 
-import com.javaweb.tzhu.dao.FoodDao;
-import com.javaweb.tzhu.dao.impl.FoodDaoImpl;
-import com.javaweb.tzhu.entity.Food;
+import com.javaweb.tzhu.entity.Foodstyle;
+import com.javaweb.tzhu.service.FoodService;
+import com.javaweb.tzhu.service.FoodStyleService;
+import com.javaweb.tzhu.service.impl.FoodServiceImpl;
+import com.javaweb.tzhu.service.impl.FoodStyleServiceImpl;
+import com.javaweb.tzhu.utils.PageModel;
+import com.javaweb.tzhu.web.base.BaseServlet;
 
-import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.io.IOException;
 import java.util.List;
 
-@WebServlet(name = "FoodServlet",urlPatterns = {"/food"})
-public class FoodServlet extends HttpServlet {
+@WebServlet(name = "FoodServlet",urlPatterns = "/FoodServlet")
+public class FoodServlet extends BaseServlet {
 
+    public String findFoodPageById(HttpServletRequest req, HttpServletResponse resp) throws Exception {
+        //查询foodStyle（食品分类）
+        FoodStyleService foodStyleService = new FoodStyleServiceImpl();
+        List<Foodstyle> FSList = foodStyleService.findFoodStyle();
+        req.setAttribute("FSList", FSList);
 
-    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
-
-        request.setCharacterEncoding("UTF-8");
-
-        String todo=request.getParameter("todo");
-
-        if("search".equals(todo)){
-
-            FoodDao dao=new FoodDaoImpl();
-            List<Food> foodList = dao.search(0, 0);
-
-
-            request.setAttribute("foodList",foodList);
-            request.getRequestDispatcher("demo01.jsp").forward(request,response);
-
+        int num=1;
+        try {
+            num = Integer.parseInt(req.getParameter("num"));
+        }catch (Exception e){
         }
-
-
-
-
-
-
-
-
-    }
-
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
-        this.doPost(request,response);
-
+        int pageSize = 9;
+        Integer foodStyleId = Integer.parseInt(req.getParameter("foodStyleId"));
+        FoodService foodService = new FoodServiceImpl();
+        PageModel pageModel = foodService.findPageByFood(foodStyleId,num,pageSize);
+        req.setAttribute("page",pageModel);
+        //return相当于转发，可参考BaseServlet
+        return "/jsp/caidanyinpin.jsp";
     }
 }
