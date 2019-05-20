@@ -1,0 +1,1951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="javawebv002:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/课堂笔记/readme.md" line="35" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a3c3c0-aa6f-4880-9881-476035dc08dc" name="Default Changelist" comment="分支xiong :提交springJDBC的配置">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1088.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1119.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1121.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1184.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1217.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1401.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1406.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1440.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1450.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1700.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/1715.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/2430.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/2631.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/2722.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/2949.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3469.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3470.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3471.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3505.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3510.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3518.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3605.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3705.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3755.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/3757.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4105.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4410.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4416.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4437.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4648.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4800.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4825.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/4900.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/5010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/5021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/5022.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/5023.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/5024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/5088.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/6800.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/6868.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/7097.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/8015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/8048.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/8346.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/8350.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/8615.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/8616.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/MDS logo_256x256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/MDS%20logo_256x256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/MDS_App.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/MDS_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/appStoreLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/apple-touch-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/baiduLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/home_promo_3267_home_promo_2734_MDS-banner_cn_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/home_promo_3268_home_promo_2735_MDS-banner_cn_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/home_promo_3269_home_promo_2736_MDS-banner_cn_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/homescreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/how_mcdelivery_works_portrait_zh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/how_mcdelivery_works_zh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/icoLoading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/landing_3255_getImage_br_cn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/landing_3259_landing_2638_2_CN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/landing_3261_landing_2640_3_CN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/landing_3263_landing_2642_4_CN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/landing_3265_landing_2644_5_CN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/mcdelivery_logo_zh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/reorder-packing_zh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/startup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/img/t.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/META-INF/javawebv002.kotlin_module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/appcomm/BaseDaoMysql.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/appcomm/BeansUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/appcomm/JDBCRowMapperBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/appcomm/TestMysql.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/AdmininfoDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/FoodDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/FoodStyleDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/impl/AdmininfoDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/impl/FoodDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/impl/FoodStyleDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/test/AdmininfoDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/test/FoodDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/dao/test/FoodStyleDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Address.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Admininfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Adminstyle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Cart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Comment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Customerinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Food.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/FoodStyle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Lunchtime.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Orderinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/entity/Orderinfodesc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/web/FoodServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/web/FoodStyleServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/web/IndexServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/web/base/BaseServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/web/filter/EncodingFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/com/javaweb/tzhu/web/filter/MyRequest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/META-INF/javawebv002.kotlin_module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/appcomm/BaseDaoMysql.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/appcomm/BeansUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/appcomm/JDBCRowMapperBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/appcomm/TestMysql.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/AdmininfoDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/FoodDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/FoodStyleDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/impl/AdmininfoDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/impl/FoodDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/impl/FoodStyleDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/test/AdmininfoDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/test/FoodDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/dao/test/FoodStyleDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Address.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Admininfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Adminstyle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Cart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Comment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Customerinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Food.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/FoodStyle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Lunchtime.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Orderinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/entity/Orderinfodesc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/web/FoodServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/web/FoodStyleServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/web/IndexServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/web/base/BaseServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/web/filter/EncodingFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/com/javaweb/tzhu/web/filter/MyRequest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/activation-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/apiguardian-api-1.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/commons-dbcp2-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/commons-pool2-2.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/druid-1.1.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/hamcrest-core-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/javaee-api-8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/javax.mail-1.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/jcommander-1.72.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/jstl-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/junit-4.11.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/junit-jupiter-api-5.5.0-M1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/junit-platform-commons-1.5.0-M1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/logback-access-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/logback-classic-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/logback-core-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/mysql-connector-java-8.0.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/opentest4j-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/protobuf-java-3.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/slf4j-api-1.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/spring-aop-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/spring-beans-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/spring-context-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/spring-core-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/spring-expression-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/spring-jcl-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/spring-jdbc-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/spring-tx-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/lib/testng-7.0.0-beta4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1088.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1119.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1121.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1184.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1217.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1401.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1406.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1440.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1450.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1700.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/1715.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/2430.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/2631.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/2722.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/2949.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3469.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3470.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3471.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3505.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3510.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3518.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3605.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3705.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3755.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/3757.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4105.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4410.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4416.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4437.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4648.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4800.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4825.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/4900.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/5010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/5021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/5022.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/5023.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/5024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/5088.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/6800.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/6868.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/7097.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/8015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/8048.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/8346.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/8350.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/8615.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/8616.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/MDS logo_256x256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/MDS%20logo_256x256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/MDS_App.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/MDS_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/appStoreLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/apple-touch-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/baiduLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/home_promo_3267_home_promo_2734_MDS-banner_cn_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/home_promo_3268_home_promo_2735_MDS-banner_cn_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/home_promo_3269_home_promo_2736_MDS-banner_cn_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/homescreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/how_mcdelivery_works_portrait_zh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/how_mcdelivery_works_zh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/icoLoading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/landing_3255_getImage_br_cn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/landing_3259_landing_2638_2_CN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/landing_3261_landing_2640_3_CN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/landing_3263_landing_2642_4_CN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/landing_3265_landing_2644_5_CN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/mcdelivery_logo_zh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/reorder-packing_zh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/startup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/img/t.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/appcomm/BaseDaoMysql.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/appcomm/BeansUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/appcomm/JDBCRowMapperBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/appcomm/TestMysql.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/AdmininfoDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/FoodDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/FoodStyleDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/impl/AdmininfoDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/impl/FoodDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/impl/FoodStyleDaoImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/test/AdmininfoDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/test/FoodDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/dao/test/FoodStyleDaoImplTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Address.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Admininfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Adminstyle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Cart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Comment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Customerinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Food.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/FoodStyle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Lunchtime.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Orderinfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/entity/Orderinfodesc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/web/FoodServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/web/FoodStyleServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/web/IndexServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/web/base/BaseServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/web/filter/EncodingFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/target/classes/com/javaweb/tzhu/web/filter/MyRequest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/app-icon72x72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/admin-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/admin-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/admin-ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/admin-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/admin-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/adminPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/blogPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/landing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/landingPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/loginPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/examples/sidebarPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/i/startup-640x1096.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/a9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/lbbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/syncfusion-icons-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/user01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/user02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/user03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/user04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/user05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/user06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/img/user07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/activation-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/commons-dbcp2-2.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/commons-pool2-2.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/druid-1.1.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/javaee-api-8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/javax.mail-1.6.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/jstl-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/logback-access-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/logback-classic-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/logback-core-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/mysql-connector-java-8.0.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/protobuf-java-3.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/slf4j-api-1.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/spring-aop-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/spring-beans-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/spring-context-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/spring-core-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/spring-expression-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/spring-jcl-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/spring-jdbc-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/lib/spring-tx-5.1.7.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/app-icon72x72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/admin-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/admin-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/admin-ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/admin-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/admin-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/adminPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/blogPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/landing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/landingPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/loginPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/examples/sidebarPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/i/startup-640x1096.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/a9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/lbbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/syncfusion-icons-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/user01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/user02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/user03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/user04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/user05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/user06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/img/user07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_access_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/30fen.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/404.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/500.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/505.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/App.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/addrSear.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/address.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/addresslogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/caidanyinpin-left.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/caidanyinpin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/chongxinjihuo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/demo01.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/dicanxuzhi.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/gerenxinxi.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/jihuozhanghu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/mlslogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/phone.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/question.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/wangjimima.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/wanzhantiaokuan.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/wodehuocang.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/yidenglushouye.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/yisitiaokuan.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/zhanghushezhi.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/jsp/zhuizongdiongdan.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/mysql.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/classes/springjdbc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/mysql.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/classes/springjdbc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/css/local.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/css/merge-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/ga.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/jquery-1.10.2-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/json2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/merge-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/modernizr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/js/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/30fen.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/404.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/500.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/505.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/App.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/addrSear.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/address.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/addresslogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/caidanyinpin-left.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/caidanyinpin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/chongxinjihuo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/demo01.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/dicanxuzhi.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/gerenxinxi.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/jihuozhanghu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/mlslogin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/phone.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/question.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/wangjimima.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/wanzhantiaokuan.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/wodehuocang.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/yidenglushouye.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/yisitiaokuan.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/zhanghushezhi.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_mls/target/javawebv002/jsp/zhuizongdiongdan.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/appcomm/BeansUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/appcomm/JDBCRowMapperBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/AdmininfoDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/FoodDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/FoodStyleDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/impl/AdmininfoDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/impl/FoodDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/impl/FoodStyleDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/test/AdmininfoDaoImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/test/FoodStyleDaoImplTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Admininfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Adminstyle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Cart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Customerinfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Food.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/FoodStyle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Lunchtime.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Orderinfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/entity/Orderinfodesc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/FoodServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/FoodStyleServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/IndexServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/base/BaseServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/filter/EncodingFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/resources/mysql.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaweb_model/src/main/resources/springjdbc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/css/amazeui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/js/amazeui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/js/echarts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/js/iscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/chart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/form-amazeui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/form-line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/form-news-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/form-news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/table-font-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/table-images-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/css/amazeui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/js/amazeui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/js/echarts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/js/iscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/chart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/form-amazeui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/form-line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/form-news-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/form-news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/table-font-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javawebamazeui/target/amazeui/table-images-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课堂笔记/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv001/pom.xml" afterPath="$PROJECT_DIR$/javawebamazeui/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv001/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv001/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/javawebamazeui/src/main/webapp/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/pom.xml" afterPath="$PROJECT_DIR$/javaweb_mls/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/appcomm/BaseDaoMysql.java" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/appcomm/BaseDaoMysql.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/appcomm/TestMysql.java" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/appcomm/TestMysql.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/dao/test/FoodDaoImplTest.java" afterPath="$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/dao/test/FoodDaoImplTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/css/local.css" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/css/local.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/css/main.css" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/css/merge-min.css" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/css/merge-min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/css/style.css" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/ga.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/ga.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/jquery-1.10.2-min.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/jquery-1.10.2-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/jquery.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/jquery.min.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/json2.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/json2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/local.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/local.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/main.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/merge-min.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/merge-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/modernizr.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/modernizr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/modernizr.min.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/modernizr.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/plugins.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/plugins.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/javawebv002/src/main/webapp/js/store.js" afterPath="$PROJECT_DIR$/javaweb_mls/src/main/webapp/js/store.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/javawebv001/target/" />
+    <ignored path="$PROJECT_DIR$/javawebv002/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jja1901javaweb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="form-news-list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javawebamazeui/target/amazeui/form-news-list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4705882">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoodServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/FoodServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4054054">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-56.617645">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoodStyleServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/FoodStyleServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;img</find>
+      <find>src=&quot;../img</find>
+      <find>../</find>
+      <find>.html</find>
+      <find>jsp</find>
+      <find>include</find>
+      <find />
+      <find />
+      <find>jdbc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>src=&quot;img</replace>
+      <replace />
+      <replace>.jsp</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/test/TestZhu.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/wanzhantiaokuan.jsp" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/jihuozhanghu.jsp" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/500.jsp" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/505.jsp" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/404.jsp" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/entity/FoodStyple.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/dao/FoodStyleDao.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/dao/impl/FoodStyleDaoImpl.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/dao/test/FoodStyleDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/entity/FoodStyle.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/web/FoodStyleServlet.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/caidanyinpin.jsp" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/entity/Foodstyle.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/dao/impl/FoodDaoImpl.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/entity/Food.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/entity/Admininfo.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/dao/AdmininfoDao.java" />
+        <option value="$PROJECT_DIR$/javawebv002/pom.xml" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/appcomm/BeansUtil.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/resources/mysql.properties" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/resources/springjdbc.xml" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/appcomm/JDBCRowMapperBuilder.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/dao/test/AdmininfoDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/dao/impl/AdmininfoDaoImpl.java" />
+        <option value="$PROJECT_DIR$/课堂笔记/readme.md" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/jsp/caidanyinpin-left.jsp" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/java/com/javaweb/tzhu/web/FoodServlet.java" />
+        <option value="$PROJECT_DIR$/javawebv002/src/main/webapp/jsp/caidanyinpin.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.2.5\localRep" />
+        <option name="mavenHome" value="D:/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javawebamazeui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaweb_model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaweb_model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaweb_model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jja1901javaweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558324194900" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.javaweb.tzhu.dao.test" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javaweb.tzhu.dao.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jja1901\JAVAEE\02JAVAWEB\02Maven_JavaWebCode\jja1901javaweb\javawebv002\src\main\resources" />
+      <recent name="D:\jja1901\JAVAEE\02JAVAWEB\02Maven_JavaWebCode\jja1901javaweb\javawebv002\src\main\java\com\javaweb\tzhu\appcomm" />
+      <recent name="D:\jja1901\JAVAEE\02JAVAWEB\02Maven_JavaWebCode\jja1901javaweb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="AdmininfoDaoImplTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaweb.tzhu.dao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="javawebv002" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javaweb.tzhu.dao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.javaweb.tzhu.dao.test.AdmininfoDaoImplTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="AdmininfoDaoImplTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaweb.tzhu.dao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="javawebv002" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javaweb.tzhu.dao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.javaweb.tzhu.dao.test.AdmininfoDaoImplTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="FoodStyleDaoImplTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaweb.tzhu.dao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="javawebv002" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javaweb.tzhu.dao.test" />
+      <option name="MAIN_CLASS_NAME" value="com.javaweb.tzhu.dao.test.FoodStyleDaoImplTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaweb" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="t8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.9" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="javawebv002:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_jja1901javaweb" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62728" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="javawebv002:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.t8" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AdmininfoDaoImplTest.search" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AdmininfoDaoImplTest.testLogin" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FoodStyleDaoImplTest.search" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FoodStyleDaoImplTest.search" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AdmininfoDaoImplTest.testLogin" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AdmininfoDaoImplTest.search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a3c3c0-aa6f-4880-9881-476035dc08dc" name="Default Changelist" comment="" />
+      <created>1557731551500</created>
+      <option name="number" value="Default" />
+      <updated>1557731551500</updated>
+      <workItem from="1557731553516" duration="184000" />
+      <workItem from="1557731813032" duration="27417000" />
+      <workItem from="1558344446391" duration="46000" />
+      <workItem from="1558344938509" duration="960000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交一个测试类文件 tzhu">
+      <created>1557733368195</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557733368195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交一个测试类文件 tzhu">
+      <created>1557734024531</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557734024531</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交一个测试类文件修改代码 tzhu">
+      <created>1557734242413</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557734242413</updated>
+    </task>
+    <task id="LOCAL-00004" summary="view 视图层设计，转换为jsp页面">
+      <created>1557903829388</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557903829388</updated>
+    </task>
+    <task id="LOCAL-00005" summary="分支tzhu提交到服务器">
+      <created>1557904660489</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557904660489</updated>
+    </task>
+    <task id="LOCAL-00006" summary="分支tzhu :提交产品分类查询到服务器上（mrzhuzx）">
+      <created>1557909150923</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557909150923</updated>
+    </task>
+    <task id="LOCAL-00007" summary="分支tzhu :提交产品分类查询到服务器上（mrzhuzx）">
+      <created>1557971756365</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557971756365</updated>
+    </task>
+    <task id="LOCAL-00008" summary="分支tzhu :提交产品分类查询和产品查询">
+      <created>1557974691821</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557974691821</updated>
+    </task>
+    <task id="LOCAL-00009" summary="分支tzhu :提交springJDBC的配置">
+      <created>1558062585720</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558062585720</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AdmininfoDaoImplTest_search - 2019.05.20 at 11h 08m 21s.xml">
+      <configuration name="AdmininfoDaoImplTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_search - 2019.05.20 at 11h 08m 51s.xml">
+      <configuration name="AdmininfoDaoImplTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_search - 2019.05.20 at 11h 10m 47s.xml">
+      <configuration name="AdmininfoDaoImplTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_search - 2019.05.20 at 11h 14m 25s.xml">
+      <configuration name="AdmininfoDaoImplTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_search - 2019.05.20 at 11h 15m 26s.xml">
+      <configuration name="AdmininfoDaoImplTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_search - 2019.05.20 at 11h 15m 37s.xml">
+      <configuration name="AdmininfoDaoImplTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_search - 2019.05.20 at 11h 18m 32s.xml">
+      <configuration name="AdmininfoDaoImplTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_search - 2019.05.20 at 11h 19m 30s.xml">
+      <configuration name="AdmininfoDaoImplTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_testLogin - 2019.05.20 at 11h 25m 06s.xml">
+      <configuration name="AdmininfoDaoImplTest.testLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdmininfoDaoImplTest_testLogin - 2019.05.20 at 11h 27m 05s.xml">
+      <configuration name="AdmininfoDaoImplTest.testLogin" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28607000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23524962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交一个测试类文件 tzhu" />
+    <MESSAGE value="提交一个测试类文件修改代码 tzhu" />
+    <MESSAGE value="view 视图层设计，转换为jsp页面" />
+    <MESSAGE value="分支tzhu提交到服务器" />
+    <MESSAGE value="分支tzhu :提交产品分类查询到服务器上（mrzhuzx）" />
+    <MESSAGE value="分支tzhu :提交产品分类查询和产品查询" />
+    <MESSAGE value="分支tzhu :提交springJDBC的配置" />
+    <MESSAGE value="分支xiong :提交springJDBC的配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支xiong :提交springJDBC的配置" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.1.7.RELEASE/spring-jdbc-5.1.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.tzhu:javaweb:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.tzhu:javaweb:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="365.06813725490196" y="405.0">com.tzhu:javaweb:1.0-SNAPSHOT</node>
+            <node x="62.93578431372546" y="324.0">org.springframework:spring-jdbc:jar:5.1.7.RELEASE</node>
+            <node x="31.5" y="162.0">org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-beans:jar:5.1.7.RELEASE</node>
+            <node x="51.93578431372546" y="81.0">org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE</node>
+            <node x="58.93578431372546" y="0.0">org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE/org.springframework:spring-jcl:jar:5.1.7.RELEASE</node>
+            <node x="0.0" y="243.0">org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-tx:jar:5.1.7.RELEASE</node>
+            <node x="181.93578431372546" y="324.0">mysql:mysql-connector-java:jar:8.0.16</node>
+            <node x="204.43578431372546" y="243.0">mysql:mysql-connector-java:jar:8.0.16/com.google.protobuf:protobuf-java:jar:3.6.1</node>
+            <node x="358.93578431372543" y="324.0">javax:javaee-api:jar:8.0</node>
+            <node x="360.93578431372543" y="243.0">javax:javaee-api:jar:8.0/com.sun.mail:javax.mail:jar:1.6.0</node>
+            <node x="361.43578431372543" y="162.0">javax:javaee-api:jar:8.0/com.sun.mail:javax.mail:jar:1.6.0/javax.activation:activation:jar:1.1</node>
+            <node x="470.93578431372543" y="324.0">org.projectlombok:lombok:jar:1.16.20</node>
+            <node x="567.9357843137254" y="324.0">jstl:jstl:jar:1.2</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-tx:jar:5.1.7.RELEASE" target="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-beans:jar:5.1.7.RELEASE">
+              <point x="21.0" y="-15.5" />
+              <point x="63.0" y="218.0" />
+              <point x="58.75" y="218.0" />
+              <point x="-27.25" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE" target="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE/org.springframework:spring-jcl:jar:5.1.7.RELEASE">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.tzhu:javaweb:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:8.0.16">
+              <point x="-15.799999999999983" y="-15.5" />
+              <point x="388.76813725490194" y="375.0" />
+              <point x="260.4357843137255" y="375.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.tzhu:javaweb:1.0-SNAPSHOT" target="org.projectlombok:lombok:jar:1.16.20">
+              <point x="15.800000000000011" y="-15.5" />
+              <point x="420.36813725490197" y="375.0" />
+              <point x="509.43578431372543" y="375.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-tx:jar:5.1.7.RELEASE" target="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE">
+              <point x="-21.0" y="-15.5" />
+              <point x="21.0" y="137.0" />
+              <point x="68.60245098039215" y="137.0" />
+              <point x="-33.333333333333314" y="15.5" />
+            </edge>
+            <edge source="com.tzhu:javaweb:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:5.1.7.RELEASE">
+              <point x="-31.599999999999994" y="-15.5" />
+              <point x="372.968137254902" y="385.0" />
+              <point x="112.43578431372546" y="385.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.tzhu:javaweb:1.0-SNAPSHOT" target="javax:javaee-api:jar:8.0">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="mysql:mysql-connector-java:jar:8.0.16" target="mysql:mysql-connector-java:jar:8.0.16/com.google.protobuf:protobuf-java:jar:3.6.1">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-beans:jar:5.1.7.RELEASE" target="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE">
+              <point x="0.0" y="-15.5" />
+              <point x="86.0" y="137.0" />
+              <point x="101.93578431372546" y="137.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:5.1.7.RELEASE" target="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-beans:jar:5.1.7.RELEASE">
+              <point x="0.0" y="-15.5" />
+              <point x="27.25" y="15.5" />
+            </edge>
+            <edge source="javax:javaee-api:jar:8.0/com.sun.mail:javax.mail:jar:1.6.0" target="javax:javaee-api:jar:8.0/com.sun.mail:javax.mail:jar:1.6.0/javax.activation:activation:jar:1.1">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:5.1.7.RELEASE" target="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-core:jar:5.1.7.RELEASE">
+              <point x="33.0" y="-15.5" />
+              <point x="145.43578431372546" y="299.0" />
+              <point x="171.69313725490196" y="299.0" />
+              <point x="171.69313725490196" y="137.0" />
+              <point x="135.26911764705883" y="137.0" />
+              <point x="33.33333333333337" y="15.5" />
+            </edge>
+            <edge source="com.tzhu:javaweb:1.0-SNAPSHOT" target="jstl:jstl:jar:1.2">
+              <point x="31.599999999999994" y="-15.5" />
+              <point x="436.1681372549019" y="385.0" />
+              <point x="591.9357843137254" y="385.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:5.1.7.RELEASE" target="org.springframework:spring-jdbc:jar:5.1.7.RELEASE/org.springframework:spring-tx:jar:5.1.7.RELEASE">
+              <point x="-33.0" y="-15.5" />
+              <point x="79.43578431372546" y="299.0" />
+              <point x="42.0" y="299.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="javax:javaee-api:jar:8.0" target="javax:javaee-api:jar:8.0/com.sun.mail:javax.mail:jar:1.6.0">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-191.0" y="66.0" />
+          <SelectedNodes>
+            <node>jstl:jstl:jar:1.2</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.7.RELEASE/spring-context-5.1.7.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课堂笔记/readme.md" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-56.617645">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/FoodStyleServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javawebamazeui/target/amazeui/form-news-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4705882">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaweb_model/src/main/java/com/javaweb/tzhu/web/FoodServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4054054">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>javawebv001:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaweb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:3.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
