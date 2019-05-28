@@ -1,17 +1,15 @@
 package com.javaweb.tzhu.dao.test;
 
 import com.javaweb.tzhu.dao.FoodDao;
-import com.javaweb.tzhu.dao.impl.FoodDaoImpl;
+import com.javaweb.tzhu.dao.impl.FoodDaoJDBCImpl;
 import com.javaweb.tzhu.entity.Food;
 import org.junit.Test;
 
 import java.util.List;
 
-public class FoodDaoImplTest {
+public class FoodDaoJDBCImplTest {
 
-    FoodDao  dao=new FoodDaoImpl();
-
-
+    FoodDao  dao= new FoodDaoJDBCImpl();
 
     @Test
     public void search() {

@@ -47,7 +47,7 @@
                     <div class="am-form-group">
                         <input type="password" class=""  name="adminPass"  value="123123" id="doc-ipt-pwd-1" placeholder="设置个密码吧">
                     </div>
-                    <p><button type="submit" class="am-btn am-btn-default">登录</button></p>
+                    <p><button type="submit" class="am-btn am-btn-default">登录 <font  color="red">${errMs}</font>  </button></p>
                 </fieldset>
             </form>
         </div>

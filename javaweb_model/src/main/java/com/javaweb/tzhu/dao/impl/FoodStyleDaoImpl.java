@@ -13,7 +13,6 @@ public class FoodStyleDaoImpl extends BaseDaoMysql<FoodStyle> implements FoodSty
 
 
 
-    @Override
     public List<FoodStyle> search() {
         return findList(FoodStyle.class," select * from  FoodStyle");
     }

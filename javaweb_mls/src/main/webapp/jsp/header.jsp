@@ -6,6 +6,7 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@taglib prefix="c"  uri="http://java.sun.com/jsp/jstl/core" %>
 <div class="global-header">
     <div class="header-actions row">
         <div class="language-selector">
@@ -21,13 +22,24 @@
         <div class="my-account-quicklinks">
             <ul class="list-inline list-inline-divide">
 
+                <c:if test="${sessionScope.cus eq null}">
 
-                <li class="list-item"><a class="list-item-target" href="mlslogin.jsp" data-toggle="modal"
+                <li class="list-item"><a class="list-item-target" href="jsp/mlslogin.jsp" data-toggle="modal"
                                          data-target="#signin">登录</a></li>
+                <li class="list-item"><a class="list-item-target" href="#" data-toggle="modal"
+                                         data-target="#signin">注册</a></li>
+                </c:if>
+                <c:if test="${sessionScope.cus ne null}">
 
 
+                <li class="list-item"><a class="list-item-target" href="cus?op=loginout" data-toggle="modal"
+                                         data-target="#trackOrder"> ${sessionScope.cus.customeremail}</a></li>
                 <li class="list-item"><a class="list-item-target" href="zhuizongdingdan.jsp" data-toggle="modal"
                                          data-target="#trackOrder">追踪订单</a></li>
+                </c:if>
+
+
+
             </ul>
         </div>
     </div>

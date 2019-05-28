@@ -59,7 +59,7 @@ public class JDBCRowMapperBuilder<T> implements RowMapper<T> {
 		return this;
 	}
 
-	@Override
+
 	public T mapRow(ResultSet re, int index) throws SQLException {
 		// TODO Auto-generated method stub
 		Class clazz;

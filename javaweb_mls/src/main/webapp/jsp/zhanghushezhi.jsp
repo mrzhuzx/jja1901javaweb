@@ -679,9 +679,6 @@
                             <select class="hide-default-error" name="address" id="form_deliveryoptions_address" aria-disabled="false" tabindex="0" style="display: none;">
                                 <option value="1">厦门市 思明区 湖滨中路557号  国贸春天 1号楼 2层 2室</option>
                             </select><span class="hide-default-error"><a class="ui-selectmenu ui-widget ui-state-default ui-corner-all ui-selectmenu-dropdown" id="form_deliveryoptions_address-button" role="button" href="address.jsp" tabindex="0" aria-haspopup="true" aria-owns="form_deliveryoptions_address-menu" aria-disabled="false" style="width: 102px;"><span class="ui-selectmenu-status">厦门市 思明区 湖滨中路557号  国贸春天 1号楼 2层 2室</span><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span></a></span>
-                            <!-- <a th:href="@{${session.customer != null and !session.customer.guest} ?  '/address.jsp' : '/guest.jsp'}" class="action-secondary action-link"><i class="fa fa-caret-right"></i> <span th:utext="#{form.order.action.addnewaddress}" th:remove="tag"> Add a New Address</span></a> -->
-
-
 
 
                             <a href="address.jsp" class="action-secondary action-link"><i class="fa fa-caret-right"></i> 添加送餐地址</a>

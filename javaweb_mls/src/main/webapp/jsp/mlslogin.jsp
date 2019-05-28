@@ -176,12 +176,12 @@
                             <fieldset class="form-credentials">
                                 <div class="list-group textfield-list-group">
                                     <div class="list-group-item textfield-list-group-item">
-                                        <label class="sr-only" for="form_login_masthead_username">Email</label>
-                                        <input type="text" name="userName" id="form_login_masthead_username" class="required email list-group-form-control" placeholder="邮箱" autocomplete="off" value="" aria-required="true">
+                                        <label class="sr-only" for="form_login_masthead_username">Email:</label>
+                                        <input type="text" name="customeremail"  value="customer@qq.com" id="form_login_masthead_username"   class="required email list-group-form-control" placeholder="邮箱" autocomplete="off" value="" aria-required="true">
                                     </div>
                                     <div class="list-group-item textfield-list-group-item">
-                                        <label class="sr-only" for="form_login_masthead_password">Password</label>
-                                        <input type="password" name="password" id="form_login_masthead_password" class="required list-group-form-control" placeholder="密码" autocomplete="off" value="" aria-required="true">
+                                        <label class="sr-only" for="form_login_masthead_password">Password:</label>
+                                        <input type="password" name="customerpass" value="123123" id="form_login_masthead_password" class="required list-group-form-control" placeholder="密码" autocomplete="off" value="" aria-required="true">
                                     </div>
                                 </div>
 
@@ -425,16 +425,16 @@
                 <h2 id="modal-title">欢迎，登陆后开始订餐</h2>
                 <div class="row">
                     <div class="col-xs-offset-3 col-xs-6">
-                        <form action="mlslogin.jsp" method="post" accept-charset="utf-8" role="form" id="form_login_modal" name="form_login_modal" class="form-login-modal form-login" data-required-symbol="false" novalidate>
+                        <form action="cus?op=login" method="post" accept-charset="utf-8" role="form" id="form_login_modal" name="form_login_modal" class="form-login-modal form-login" data-required-symbol="false" novalidate>
                             <fieldset class="form-credentials">
                                 <div class="list-group textfield-list-group">
                                     <div class="list-group-item textfield-list-group-item">
                                         <label class="sr-only" for="form_login_modal_username">邮箱</label>
-                                        <input type="text" name="userName" id="form_login_modal_username" class="required email list-group-form-control" placeholder="邮箱" autocomplete="off" value="" aria-required="true">
+                                        <input type="text" name="customeremail" value="customer@qq.com" id="form_login_modal_username" class="required email list-group-form-control" placeholder="邮箱" autocomplete="off" value="" aria-required="true">
                                     </div>
                                     <div class="list-group-item textfield-list-group-item">
                                         <label class="sr-only" for="form_login_modal_password">密码</label>
-                                        <input type="password" name="password" id="form_login_modal_password" class="required list-group-form-control" placeholder="密码" autocomplete="off" value="" aria-required="true">
+                                        <input type="password" name="customerpass" value="123123" id="form_login_modal_password" class="required list-group-form-control" placeholder="密码" autocomplete="off" value="" aria-required="true">
                                     </div>
                                 </div>
 

@@ -1,7 +1,7 @@
 package com.javaweb.tzhu.web;
 
 import com.javaweb.tzhu.dao.FoodDao;
-import com.javaweb.tzhu.dao.impl.FoodDaoImpl;
+import com.javaweb.tzhu.dao.impl.FoodDaoJDBCImpl;
 import com.javaweb.tzhu.entity.Food;
 
 import javax.servlet.ServletException;
@@ -31,7 +31,7 @@ public class FoodServlet extends HttpServlet {
 
         }else if("searchFoodByfoodStyleId".equals(todo)){
             //从产品分类中查询产品列表
-            FoodDao dao=new FoodDaoImpl();
+            FoodDao dao=new FoodDaoJDBCImpl();
             String  foodStyleId_Str=request.getParameter("foodStyleId");
             Integer  foodStyleId=1;
             if(foodStyleId_Str!=null ){
@@ -56,7 +56,7 @@ public class FoodServlet extends HttpServlet {
 
     private void initFood(HttpServletRequest request) {
         // 默认查询 产品类型为1的列表
-        FoodDao dao=new FoodDaoImpl();
+        FoodDao dao=new FoodDaoJDBCImpl();
 
         Integer  foodStyleId=1;
 
@@ -66,7 +66,7 @@ public class FoodServlet extends HttpServlet {
     }
 
     private void search(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        FoodDao dao=new FoodDaoImpl();
+        FoodDao dao=new FoodDaoJDBCImpl();
         List<Food> foodList = dao.search(0, 0);
         request.setAttribute("foodList",foodList);
         request.getRequestDispatcher("demo01.jsp").forward(request,response);
