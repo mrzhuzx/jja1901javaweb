@@ -9,6 +9,8 @@ import lombok.Data;
 @Data
 public class CustomerVo {
 
+    private Integer customerid;
+
     private String customername;
 
     private String customersex;

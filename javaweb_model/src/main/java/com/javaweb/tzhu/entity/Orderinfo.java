@@ -1,6 +1,12 @@
 package com.javaweb.tzhu.entity;
 
+/**
+ * 定单
+ */
 public class Orderinfo {
+    /**
+     * 定单ID  UUID唯一性，安全性
+     */
     private Integer ordid;
 
     private Integer customerid;

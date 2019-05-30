@@ -37,103 +37,12 @@
 
 </head>
 <body class="country-86 lang-zh page-account-track-order page-account modal-open" style="padding-right: 17px;">
-<!--[if lt IE 9]>
-<p id="outdated" class="browsehappy">您目前使用的浏览器版本过低，为保证您正常浏览网页，请<a href="http://browsehappy.com/?locale=zh" target="_blank">升级</a>至最新版本。</p>
-<![endif]-->
-<!-- TODO: Please add the following line -->
-
 
 <script type="text/javascript"></script>
 
 <div class="root">
     <div class="wrap container">
-        <div class="global-header">
-            <div class="header-actions row">
-                <div class="language-selector">
-                    <ul class="list-inline list-inline-divide">
-                        <li class="list-item selected">
-                            <a class="list-item-target" href="#">中文 <i class="fa fa-caret-left icon"></i></a>
-                            <!-- -->
-                        </li>
-                        <li class="list-item"><a class="list-item-target" href="#">English <i class="fa fa-caret-left icon"></i></a></li>
-                    </ul>
-                </div>
-                <div class="my-account-quicklinks">
-                    <ul class="list-inline list-inline-divide">
-
-
-                        <li class="list-item">欢迎回来  陶然</li>
-
-
-
-
-                        <li class="list-item">
-                            <a class="list-item-target" href="index.jsp">退出</a>
-                        </li>
-
-
-                        <li class="list-item"><a class="list-item-target" href="zhuizongdingdan.jsp" data-toggle="modal" data-target="#trackOrder">追踪订单</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="global-navbar navbar navbar-default" role="navigation">
-                <div class="navbar-header">
-                    <a class="navbar-brand wos-brand" href="index.jsp">
-                        <img src="../img/mcdelivery_logo_zh.jpg" alt="McDelivery&amp;trade;">
-                    </a>
-                </div>
-                <div class="main-navigation clearfix">
-                    <ul class="nav navbar-nav">
-                        <li class="menu-item menu-item-menu">
-                            <a class="menu-item-target" href="caidanyinpin.jsp">
-                                <i class="fa mcd mcd-burger icon"></i>
-                                浏览菜单
-                            </a>
-                        </li>
-
-
-
-                        <li class="menu-item menu-item-account dropdown">
-                            <a class="menu-item-target dropdown-toggle" href="zhanghushezhi.jsp" data-toggle="dropdown">
-                                <i class="fa fa-user icon"></i>
-                                我的账户
-                                <span class="caret"></span>
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li class="dropdown-menu-item">
-                                    <a class="dropdown-menu-item-target" href="zhuizongdingdan.jsp" data-toggle="modal">追踪订单</a>
-
-                                </li>
-                                <li class="dropdown-menu-item">
-                                    <a class="dropdown-menu-item-target" href="dingcanjilu.jsp">订餐记录</a>
-                                </li>
-
-                                <li class="dropdown-menu-item">
-                                    <a class="dropdown-menu-item-target" href="address.jsp">地址簿</a>
-                                </li>
-                                <li class="dropdown-menu-item">
-                                    <a class="dropdown-menu-item-target" href="zhanghushezhi.jsp">账户设置</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li class="menu-item menu-item-support">
-                            <a class="menu-item-target" href="question.jsp">
-                                <i class="fa fa-phone icon"></i>
-                                帮助
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Start of Session time out warning -->
-            <div class="alert alert-warning alert-dismissable inline-alert type-flama hidden" data-content-timer="60000" data-delay-show="900000">
-                <button type="button" class="close" data-dismiss="alert" aria-hidden="true"><i class="fa mcd mcd-close"></i></button>
-                <p><i class="fa fa-exclamation text-white icon"></i>请在<span data-countdown-redirect-url="/cn/expireSession.jsp" data-countdown-time="900" class="text-primary timer"></span>内提交订单，以免购物车清空。加油哦！</p>
-            </div>
-            <!-- End of Session time out warning -->
-        </div>
+        <%@include file="/jsp/header.jsp" %>
         <div class="main" role="main">
             <div class="row row-narrow">
                 <div class="page-sidebar">
@@ -156,22 +65,30 @@
                     <div class="page-content">
                         <div>
 
-                        </div><table class="table-default table-panel table-trackorder">
+                        </div>
+                        <table class="table-default table-panel table-trackorder">
+                        <thead>
+                         <tr> <td>产品图片</td> <td>产品名字</td> <td>产品价格</td><td>数量</td><td>操作</td></tr>
+                        </thead>
+                        <jsp:include page="../cart?op=searchMyCart"/>-
+                        <tbody>
+                        <c:forEach var="cf" items="${requestScope.cartList}">
+                           <tr><td><img src="${cf.imagesPath}" width="32px" height="32px"></td><td>${cf.foodName}</td> <td>${cf.foodPrice}</td><td>${cf.foodcount}</td> <td> <a data-toggle="modal" class="btn btn-red btn-lg" href="#">删除</a></td></tr>
+                        </c:forEach>
+                        </tbody>
+
                         <tfoot>
                         <tr>
                             <td colspan="6" class="actions">
-                                <a data-toggle="modal" class="btn btn-red btn-lg" href="zhengcancuxiao.jsp">再次订餐</a>
+                                <a data-toggle="modal" class="btn btn-red btn-lg" href="cart?op=save">下订单</a>
 
 
-                                <p><a href="dingcanjilu.jsp" data-toggle="modal" class="action-secondary action-link"><i class="fa fa-caret-right"></i> 找不到订单？</a></p>
+                                <p><a href="jsp/index.jsp" data-toggle="modal" class="action-secondary action-link"><i class="fa fa-caret-right"></i>继续添加</a></p>
 
                             </td>
                         </tr>
                         </tfoot>
-                        <tbody>
 
-
-                        </tbody>
                     </table>
 
 
@@ -185,9 +102,6 @@
         <div class="footer-nav">
             <div class="container">
                 <div class="row">
-
-
-
                     <div class="column">
                         <h3 class="list-group-title">浏览菜单</h3>
                         <ul class="list-unstyled">
@@ -229,17 +143,13 @@
                     <div class="column">
                         <h3 class="list-group-title">我的账户</h3>
 
-
-
-
-
                         <ul class="list-unstyled">
-                            <li class="menu-item"><a class="menu-item-target" href="zhuizongdingdan.jsp" data-toggle="modal">追踪订单</a></li>
+                            <li class="menu-item"><a class="menu-item-target" href="jsp/zhuizongdiongdan.jsp" data-toggle="modal">追踪订单</a></li>
 
                             <li class="menu-item"><a class="menu-item-target" href="dingcanjilu.jsp">订餐记录</a></li>
 
                             <li class="menu-item"><a class="menu-item-target" href="address.jsp">地址簿</a></li>
-                            <li class="menu-item"><a class="menu-item-target" href="zhanghushezhi.jsp">账户设置</a></li>
+                            <li class="menu-item"><a class="menu-item-target" href="zhanghushezhi.jsp" >账户设置</a></li>
                         </ul>
 
 
@@ -445,9 +355,6 @@
                             <select class="hide-default-error" name="address" id="form_deliveryoptions_address" aria-disabled="false" tabindex="0" style="display: none;">
                                 <option value="1">厦门市 思明区 湖滨中路557号  国贸春天 1号楼 2层 2室</option>
                             </select><span class="hide-default-error"><a class="ui-selectmenu ui-widget ui-state-default ui-corner-all ui-selectmenu-dropdown" id="form_deliveryoptions_address-button" role="button" href="#" tabindex="0" aria-haspopup="true" aria-owns="form_deliveryoptions_address-menu" aria-disabled="false" style="width: 102px;"><span class="ui-selectmenu-status">厦门市 思明区 湖滨中路557号  国贸春天 1号楼 2层 2室</span><span class="ui-selectmenu-icon ui-icon ui-icon-triangle-1-s"></span></a></span>
-                            <!-- <a th:href="@{${session.customer != null and !session.customer.guest} ?  '/address.jsp' : '/guest.jsp'}" class="action-secondary action-link"><i class="fa fa-caret-right"></i> <span th:utext="#{form.order.action.addnewaddress}" th:remove="tag"> Add a New Address</span></a> -->
-
-
 
 
                             <a href="address.jsp" class="action-secondary action-link"><i class="fa fa-caret-right"></i> 添加送餐地址</a>
@@ -561,33 +468,6 @@
         </div>
     </div>
 </div>
-<div id="trackOrder" class="modal-trackorder modal fade in" data-backdrop="static" role="dialog" aria-labelledby="trackorder-title" aria-hidden="false" tabindex="-1" style="display: block; padding-right: 17px;"><div class="modal-backdrop fade in" style="height: 732px;"></div>
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 id="trackorder-title">追踪订单</h1>
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa mcd mcd-close"></i></button>
-            </div>
-            <div class="modal-body">
-                <p>请输入订单号码，查询订单状态。</p>
-                <form action="#" method="post" role="form" id="form_trackOrder" name="form_trackOrder" class="form form-track-order" novalidate>
-
-                    <div class="form-group">
-                        <label class="field-label" for="form_trackOrder_orderNum">订单号码:</label>
-                        <input type="text" class="form-control input-lg required" id="form_trackOrder_orderNum" name="orderNum" aria-required="true">
-                    </div>
-                    <div class="form-group">
-                        <button type="submit" class="btn btn-default btn-red btn-lg text-ucase">下一步</button>
-                    </div>
-                    <input type="hidden" name="csrfValue" value="998F500"></form>
-                <p class="note">如有任何问题，请致电麦乐送.</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
 
 
 <!--

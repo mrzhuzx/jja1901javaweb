@@ -25,6 +25,13 @@
     </properties>
 
     <dependencies>
+
+        <dependency>
+            <groupId>com.javaweb.tzhu</groupId>
+            <artifactId>javaweb_model</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!-- 三方库 -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -46,6 +53,24 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.javaweb.tzhu</groupId>
+            <artifactId>javaweb_model</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.javaweb.tzhu</groupId>
+            <artifactId>javaweb_model</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.javaweb.tzhu</groupId>
+            <artifactId>javaweb_model</artifactId>
+            <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
 

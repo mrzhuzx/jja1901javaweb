@@ -61,6 +61,7 @@ public class CustomerServlet extends HttpServlet {
         CustomerVo cus=new CustomerVo();
         //验证客户的有效性 DAO
         if(customeremail!=null ){
+            cus.setCustomerid(4);
             cus.setCustomeremail(customeremail);
             cus.setCustomername("罗");
             cus.setCustomerbirthday("1997-5-12");

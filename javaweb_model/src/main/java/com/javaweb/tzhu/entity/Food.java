@@ -7,11 +7,11 @@ import lombok.Data;
 public class Food {
     private Integer foodId;
 
-    private String foodName;
+    private String foodName;//产品名字
 
     private String foodIntroduce;
 
-    private Double foodPrice;
+    private Double foodPrice;//产品价格
 
     private Integer foodStyleId;
 
@@ -19,6 +19,6 @@ public class Food {
 
     private Integer lunchId;
 
-    private String imagesPath;
+    private String imagesPath;//产品图片
 
 }

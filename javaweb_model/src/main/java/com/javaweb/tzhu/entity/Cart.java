@@ -1,43 +1,28 @@
 package com.javaweb.tzhu.entity;
 
+import lombok.Data;
+
+
+@Data
 public class Cart {
+
+
+    /**
+     * 购物车ID
+     */
     private Integer cartid;
-
+    /**
+     * 客户ID
+     */
     private Integer userid;
-
+    /**
+     * 产品Id
+     */
     private Integer foodid;
-
+    /**
+     * 产品数量（减数量）
+     */
     private Integer foodcount;
 
-    public Integer getCartid() {
-        return cartid;
-    }
 
-    public void setCartid(Integer cartid) {
-        this.cartid = cartid;
-    }
-
-    public Integer getUserid() {
-        return userid;
-    }
-
-    public void setUserid(Integer userid) {
-        this.userid = userid;
-    }
-
-    public Integer getFoodid() {
-        return foodid;
-    }
-
-    public void setFoodid(Integer foodid) {
-        this.foodid = foodid;
-    }
-
-    public Integer getFoodcount() {
-        return foodcount;
-    }
-
-    public void setFoodcount(Integer foodcount) {
-        this.foodcount = foodcount;
-    }
 }

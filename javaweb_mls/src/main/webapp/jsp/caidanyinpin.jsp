@@ -32,7 +32,7 @@
     <!--[if lt IE 9]>
     <script type="text/javascript" src="/cn/static/1418178769517/assets/00/js/oldie.js"></script><![endif]-->
 
-    <script type="text/javascript"></script>
+    <script type="text/javascript"> </script>
 
 
     <script type="text/javascript">var _gaq = _gaq || [];
@@ -121,7 +121,7 @@
 
 
                                                             <a class="btn btn-red btn-block action-create"
-                                                               data-productid="789" href="mlslogin.jsp"
+                                                               data-productid="789" href="cart?op=save&foodid=${f.foodId}"
                                                                data-toggle="modal" data-target="#signin">添加</a>
 
                                                         </div>
@@ -370,13 +370,13 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 id="trackorder-title">追踪订单</h1>
+                <h1 id="trackorder-title">追踪订单xxx</h1>
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i
                         class="fa mcd mcd-close"></i></button>
             </div>
             <div class="modal-body">
                 <p>请输入订单号码，查询订单状态。</p>
-                <form action="https://www.4008-517-517.cn/cn/searchOrder.jsp" method="post" role="form"
+                <form action="searchOrder.jsp" method="post" role="form"
                       id="form_trackOrder" name="form_trackOrder" class="form form-track-order" novalidate>
 
                     <div class="form-group">

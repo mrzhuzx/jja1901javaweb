@@ -1,10 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: zxlal
-  Date: 2019/5/15
-  Time: 16:52
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@taglib prefix="c"  uri="http://java.sun.com/jsp/jstl/core" %>
 <div class="global-header">
@@ -13,7 +7,7 @@
             <ul class="list-inline list-inline-divide">
                 <li class="list-item selected">
                     <a class="list-item-target" href="#">中文 <i class="fa fa-caret-left icon"></i></a>
-                    <!-- -->
+
                 </li>
                 <li class="list-item"><a class="list-item-target" href="#">English <i
                         class="fa fa-caret-left icon"></i></a></li>
@@ -34,8 +28,8 @@
 
                 <li class="list-item"><a class="list-item-target" href="cus?op=loginout" data-toggle="modal"
                                          data-target="#trackOrder"> ${sessionScope.cus.customeremail}</a></li>
-                <li class="list-item"><a class="list-item-target" href="zhuizongdingdan.jsp" data-toggle="modal"
-                                         data-target="#trackOrder">追踪订单</a></li>
+                <li class="list-item"><a class="list-item-target" href="jsp/zhuizongdiongdan.jsp" data-toggle="modal"
+                                         data-target="#trackOrder">我的购物</a></li>
                 </c:if>
 
 

@@ -1,43 +1,24 @@
 package com.javaweb.tzhu.entity;
 
-public class Orderinfodesc {
-    private Integer orddtlid;
 
+import lombok.Data;
+
+/**
+ * 定单明细
+ */
+@Data
+public class Orderinfodesc {
+    /**
+     * 定单明细ID
+     */
+    private Integer orddtlid;
+    /**
+     * 定单ID外键引用
+     */
     private Integer ordid;
 
     private Integer foodid;
 
     private Integer foodcount;
 
-    public Integer getOrddtlid() {
-        return orddtlid;
-    }
-
-    public void setOrddtlid(Integer orddtlid) {
-        this.orddtlid = orddtlid;
-    }
-
-    public Integer getOrdid() {
-        return ordid;
-    }
-
-    public void setOrdid(Integer ordid) {
-        this.ordid = ordid;
-    }
-
-    public Integer getFoodid() {
-        return foodid;
-    }
-
-    public void setFoodid(Integer foodid) {
-        this.foodid = foodid;
-    }
-
-    public Integer getFoodcount() {
-        return foodcount;
-    }
-
-    public void setFoodcount(Integer foodcount) {
-        this.foodcount = foodcount;
-    }
 }

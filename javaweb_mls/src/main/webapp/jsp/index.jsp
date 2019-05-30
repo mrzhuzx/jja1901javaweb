@@ -52,11 +52,6 @@
 
 <body class="country-86 lang-zh page-home" style="">
 
-<!--[if lt IE 9]>
-<p id="outdated" class="browsehappy">您目前使用的浏览器版本过低，为保证您正常浏览网页，请<a href="http://browsehappy.com/?locale=zh"
-                                                                  target="_blank">升级</a>至最新版本。</p>
-<![endif]-->
-<!-- TODO: Please add the following line -->
 
 
 <script type="text/javascript"></script>
@@ -64,6 +59,7 @@
 <div class="root">
     <div class="wrap container">
         <%@include file="/jsp/header.jsp" %>
+
         <div class="main" role="main">
 
             <!-- Begin Home Masthead Section -->
@@ -260,7 +256,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 id="trackorder-title">追踪订单</h1>
+                <h1 id="trackorder-title">追踪订单xxx</h1>
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i
                         class="fa mcd mcd-close"></i></button>
             </div>
